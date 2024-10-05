@@ -5,8 +5,8 @@ The **Smart Medibox** is an IoT device designed using ESP32 to help manage medic
 
 <table>
   <tr>
-    <td><img src="https://your_image_link_1" alt="Medibox Front View" width="500"></td>
-    <td><img src="https://your_image_link_2" alt="Medibox Side View" width="500"></td>
+    <td><img src="https://github.com/dulan-devinda/Smart-Medibox/blob/main/Images/image1.png?raw=true" alt="Medibox Front View" width="500" height="350"></td>
+    <td><img src="https://github.com/dulan-devinda/Smart-Medibox/blob/main/Images/image2.png?raw=true" alt="Medibox Side View"  width="500" height="350"></td>
   </tr>
 </table>
 
