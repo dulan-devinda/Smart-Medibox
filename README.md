@@ -64,4 +64,5 @@ This Medibox combines the best of IoT technologies with healthcare needs, offeri
     - Set up the hardware as per the provided schematics.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
