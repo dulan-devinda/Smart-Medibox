@@ -3,6 +3,13 @@
 ## About
 The **Smart Medibox** is an IoT device designed using ESP32 to help manage medication schedules. It displays the time according to the current timezone, allows setting and canceling alarms for medication times, and includes an automated shading mechanism that adjusts based on temperature and humidity to protect medicines.
 
+<table>
+  <tr>
+    <td><img src="https://your_image_link_1" alt="Medibox Front View" width="500"></td>
+    <td><img src="https://your_image_link_2" alt="Medibox Side View" width="500"></td>
+  </tr>
+</table>
+
 ## Key Features
 - **Time Display**: Displays the current time in the correct timezone.
 - **Alarm System**: Allows users to set and cancel alarms for taking medications.
