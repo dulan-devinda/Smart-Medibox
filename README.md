@@ -59,7 +59,7 @@ This Medibox combines the best of IoT technologies with healthcare needs, offeri
         - DHT.h
 
 3. **Instructions**:
-    - Clone this repository: `git clone https://github.com/yourusername/Smart-Medibox.git`
+    - Clone this repository: `git clone https://github.com/dulan-devinda/Smart-Medibox.git`
     - Upload the code to your ESP32 using Arduino IDE.
     - Set up the hardware as per the provided schematics.
 
